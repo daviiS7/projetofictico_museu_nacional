@@ -30,11 +30,10 @@ O foco é demonstrar como construir páginas organizadas, acessíveis e visualme
 ## 📁 Estrutura do Projeto
 
 📁 museu-nacional/
-├── 📄 index.html
-└── 📁 css/
-    ├── 📄 style.css
-├── imagens/
-└── js/
+index.html
+/css
+imagens/
+js/
 
 
 ---
