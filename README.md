@@ -43,6 +43,11 @@ js/
 Uma página informativa e moderna sobre o **Museu Nacional**, com conteúdo bem organizado e layout responsivo.  
 O projeto demonstra o poder do **HTML5** e **CSS3** para criar sites profissionais e acessíveis sem depender de linguagens de programação adicionais.
 
+## 🔍 Pré-visualização
+
+![Preview do site Museu Nacional](preview.png)
+
+
 ---
 
 ## 👨‍💻 Autor
