@@ -45,7 +45,7 @@ O projeto demonstra o poder do **HTML5** e **CSS3** para criar sites profissiona
 
 ## 🔍 Pré-visualização
 
-![Preview do site Museu Nacional](preview.png)
+![Preview do site Museu Nacional](https://github.com/daviiS7/projetofictico_museu_nacional/blob/main/preview.png)
 
 
 ---
