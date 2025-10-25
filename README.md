@@ -15,7 +15,7 @@ O foco é demonstrar como construir páginas organizadas, acessíveis e visualme
 
 ### 🧩 Tecnologias
 - **HTML5** → estrutura e conteúdo  
-- **CSS3** → design e responsividade  
+- **CSS3** → design
 
 ### 💡 Conceitos Praticados
 - Uso de **tags semânticas** (`header`, `nav`, `main`, `section`, `article`, `footer`)  
